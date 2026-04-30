@@ -1,16 +1,62 @@
-## Hi there 👋
+### 👋 Привет!
 
-<!--
-**iana2806/iana2806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я frontend-разработчик. Люблю делать интерфейсы, которые работают понятно и без лишней сложности.
 
-Here are some ideas to get you started:
+Работаю с React и TypeScript: собираю интерфейсы из компонентов, настраиваю логику и слежу за тем, чтобы все вело себя предсказуемо для пользователя.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### 🧠 Как подхожу к работе
+
+Мне важно, чтобы интерфейс был не только “работающим”, но и удобным.
+
+Обычно фокусируюсь на:
+
+* понятной структуре компонентов
+* аккуратной работе с состоянием
+* обработке загрузок, ошибок и разных состояний интерфейса
+
+Есть опыт в UX/UI дизайне, поэтому смотрю на интерфейс с двух сторон - как разработчик и как пользователь. Это помогает находить слабые места ещё до того, как они начинают влиять на опыт.
+
+
+
+### 🛠️ Стек и инструмаенты
+
+Frontend
+
+* JavaScript
+* TypeScript
+* React
+* React Router
+* Redux Toolkit
+
+Инструменты разработки
+
+* Vite
+* ESLint / Prettier
+* Git / GitHub
+* Storybook
+* Jest
+
+Дополнительно
+
+* Работа с API
+* Управление состоянием
+* Обработка асинхронных данных
+* Навыки UX/UI и работа с Figma
+
+
+
+### 📂 Проекты
+
+[SkillSwap - https://github.com/iana2806/SkillSwap_47_4]
+
+Приложение на React + Redux Toolkit.
+Реализована работа с пользовательскими данными, фильтрация, обработка состояний загрузки и ошибок.
+
+
+
+### 📫 Контакты
+
+* Email: iana2806@yandex.ru
+* Telegram: @irusachenko
